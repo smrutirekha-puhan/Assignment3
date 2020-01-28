@@ -1,0 +1,6 @@
+C:\Users\SMRUTI\source\repos\InvetoryManagementSystem\InvetoryManagementSystem\bin\Debug\InvetoryManagementSystem.exe.config
+C:\Users\SMRUTI\source\repos\InvetoryManagementSystem\InvetoryManagementSystem\bin\Debug\InvetoryManagementSystem.exe
+C:\Users\SMRUTI\source\repos\InvetoryManagementSystem\InvetoryManagementSystem\bin\Debug\InvetoryManagementSystem.pdb
+C:\Users\SMRUTI\source\repos\InvetoryManagementSystem\InvetoryManagementSystem\obj\Debug\InvetoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\SMRUTI\source\repos\InvetoryManagementSystem\InvetoryManagementSystem\obj\Debug\InvetoryManagementSystem.exe
+C:\Users\SMRUTI\source\repos\InvetoryManagementSystem\InvetoryManagementSystem\obj\Debug\InvetoryManagementSystem.pdb
